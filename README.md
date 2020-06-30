@@ -6,6 +6,7 @@ An x86 assembly project with the help of Irvine library to implement some string
 - Irvine library should be downloaded 
 - x86 Assembler
 - Visual Studio
+
 All these dependencies are found within the repository but if the implemented code only is needed, it is found under [Stringulation](https://github.com/ziadmoftah/Stringulation/tree/master/Stringulation)/**main.asm**
 
 ## Documentation
